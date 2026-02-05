@@ -85,5 +85,8 @@ This project is licensed under GPLv3. See:
 
 - `LICENSE.txt`
 
+# Support
+[**Discord**](https://discord.gg/5Z5z7xnw)
+
 ## Credits
 [**ElvUI**](https://tukui.org/elvui)...
