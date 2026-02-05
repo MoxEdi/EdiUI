@@ -1,5 +1,3 @@
-# EdiUI
-
 <p align="center">
   <img src="Media/Logo/logo.png" alt="EdiUI Logo" width="180" />
 </p>
@@ -30,8 +28,14 @@
 
 ## 📦 Requirements
 
-- **World of Warcraft Retail** `12.0+`
-- **ElvUI** (recommended / integrated)
+- [**ElvUI**](https://tukui.org/elvui)
+- [**Plater**](https://www.curseforge.com/wow/addons/plater-nameplates)
+- [**Details**](https://www.curseforge.com/wow/addons/details)
+- [**BigWigs**](https://www.curseforge.com/wow/addons/big-wigs) / [**LittleWigs**](https://www.curseforge.com/wow/addons/little-wigs)
+- [**WarpDeplete**](https://www.curseforge.com/wow/addons/warpdeplete)
+
+## **__HIGHLY RECOMMENDED__**
+▶ [**Clean Icons Mechagnome Edition**](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases/tag/12.0.0.65512-V5-1) - Needs to be placed in Interface folder ( `World of Warcraft / _retail_ / Interface` )
 
 ## 🚀 Installation
 
@@ -44,7 +48,8 @@
 3. Restart WoW or run `/reload`
 
 ## ⚙️ Quick Start
-
+- Install Elvui -> EdiUI Installer will open after reload.
+or
 - Open options: `/eui` or `/ediui`
 - Open installer: `/eui install`
 - Re-run installer: `/eui reinstall`
@@ -79,3 +84,6 @@ Latest release highlights are tracked in:
 This project is licensed under GPLv3. See:
 
 - `LICENSE.txt`
+
+## Credits
+[**ElvUI**](https://tukui.org/elvui)...
