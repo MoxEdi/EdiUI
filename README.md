@@ -39,7 +39,7 @@
 
 ## 🚀 Installation
 
-### CurseForge / Wago
+### CurseForge
 - Install `EdiUI` from your preferred addon manager or site.
 
 ### Manual
