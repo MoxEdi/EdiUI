@@ -4,12 +4,12 @@
 
 <p align="center">
   <b>Modular World of Warcraft UI toolkit built around ElvUI.</b><br/>
-  Installer, profile automation, crosshair, trinket tracking, teleports, and more.
+  Installer, profile automation, crosshair, trinket tracking, teleports, QoL.
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.401-ffcc4d">
-  <img alt="WoW" src="https://img.shields.io/badge/WoW-Retail%2012.0-2e8bff">
+  <img alt="Version" src="https://img.shields.io/badge/version-2.0.0-ffcc4d">
+  <img alt="WoW" src="https://img.shields.io/badge/WoW-Retail%2012.0.0-2e8bff">
   <img alt="Interface" src="https://img.shields.io/badge/interface-120000-8a2be2">
   <img alt="License" src="https://img.shields.io/badge/license-GPLv3-green">
 </p>
@@ -18,13 +18,12 @@
 
 ## ✨ Features
 
+- Lightweight All-In-One addon
+- Built on Blizzard's native Edit Mode - No addon required for Cooldown Manager
 - Modular architecture with a custom options UI
 - Guided installer flow (with profile/import automation)
-- Crosshair module with combat/range behavior support
-- CursorCircle module (12.0-compatible updates)
-- Trinket Tracker (on-use trinkets, anchor + layout controls)
-- M+ Teleports module
-- Utility tools (changelog popup, conflict detection, performance monitor)
+- Trinket/Racials Tracker (on-use trinkets)
+- M+ Teleports
 
 ## 📦 Requirements
 
@@ -40,7 +39,7 @@
 ## 🚀 Installation
 
 ### CurseForge
-- Install `EdiUI` from your preferred addon manager or site.
+- Install `EdiUI` from [CurseForge](https://www.curseforge.com/wow/addons/ediui) or WowUP
 
 ### Manual
 1. Download/extract this repository.
@@ -58,20 +57,12 @@ or
 
 ## 🧩 Included Modules
 
-- `General`
+- `Visual`
+- `CD Manager`
 - `QoL`
-- `Crosshair`
-- `Cooldown Manager`
-- `Trinkets`
-- `CursorCircle`
-- `Power Bar`
-- `Class Bar`
-- `Cast Bar`
-- `Dungeon Teleports`
-- `Cluster Positioning`
-- `Profiles`
-- `Utilities`
-- `Minimap Button`
+- `Reminders`
+- `Utility`
+- `Other`
 
 ## 📝 Changelog
 
@@ -89,4 +80,4 @@ This project is licensed under GPLv3. See:
 [**Discord**](https://discord.gg/5Z5z7xnw)
 
 ## Credits
-[**ElvUI**](https://tukui.org/elvui)...
+[**ElvUI**](https://tukui.org/elvui)
