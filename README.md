@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-2.2.0-ffcc4d">
+  <img alt="Version" src="https://img.shields.io/badge/version-2.2.1-ffcc4d">
   <img alt="WoW" src="https://img.shields.io/badge/WoW-Retail%2012.0.0-2e8bff">
   <img alt="Interface" src="https://img.shields.io/badge/interface-120000-8a2be2">
   <img alt="License" src="https://img.shields.io/badge/license-GPLv3-green">
